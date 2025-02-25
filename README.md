@@ -1,16 +1,17 @@
-## Hi there 👋
+🐾 Hello 🐾
 
-<!--
-**Sobanata/Sobanata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👻 В данный момент я ни над чем не работаю. 👻
 
-Here are some ideas to get you started:
+✨ Я сейчас учусь, изучаю такие языки как HTML, CSS, JS, PHP. ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👀 Я ищу возможности для сотрудничества, новые люди всегда хорошо. 👀
+
+🤔 Я пока не ищу помощь с проектами, я сама справляюсь. 🤔
+
+💬 Спросите меня о веб-разработке, но не факт, что я вам отвечу, это не потому что я чего-то не знаю, а потому что мне лень... 💬
+
+📫 Как со мной связаться: [DragnilN609@gmail.com](mailto:DragnilN609@gmail.com). 📫
+
+🤔 Мои местоимения: она. 🤔
+
+⚡ Забавный факт: факт не забавный, а просто факт, я люблю спать и играть в компуктер. ⚡
