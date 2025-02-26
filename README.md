@@ -10,7 +10,10 @@
 
 Cейчас учусь, изучаю такие языки как HTML, CSS, JS, PHP.
 
-- ![HTML Logo]()
+ ![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+ ![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+ ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
+
 
 
 Мне нравится дизайн
