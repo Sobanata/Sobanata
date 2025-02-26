@@ -1,7 +1,7 @@
 # Привет (ˉ﹃ˉ)
 ---
 
-![баннер](https://github.com/Sobanata/Sobanata.github.io/raw/main/1.png)
+![баннер](https://github.com/Sobanata/README.md/raw/main/anime.jpg)
 
 ---
 ## Обо мне
