@@ -1,13 +1,17 @@
 # Привет (ˉ﹃ˉ)
 ---
 
-![баннер](https://github.com/Sobanata/README.md/raw/main/anime.jpg)
+![баннер](https://github.com/Sobanata/Sobanata/blob/main/anime.jpg)
 
 ---
 ## Обо мне
-Веб-разработчик
- 
-Я сейчас учусь, изучаю такие языки как HTML, CSS, JS, PHP.
+Я начинающий веб-разработчик, хочу развиваться в этой области, мне кажется это интересным.
+
+
+Cейчас учусь, изучаю такие языки как HTML, CSS, JS, PHP.
+
+- ![HTML Logo]()
+
 
 Мне нравится дизайн
 
