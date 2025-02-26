@@ -1,6 +1,6 @@
 # Привет (ˉ﹃ˉ)
 ---
- ![баннер]
+ ![баннер](https://github.com/Sobanata/Sobanata/blob/main/eye.jpg)
 
 
 ---
